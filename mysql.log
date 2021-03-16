@@ -1,15 +1,4 @@
-2021-02-13T17:06:06.786889Z 0 [System] [MY-010116] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld (mysqld 8.0.23) starting as process 28160
-2021-02-13T17:06:06.792835Z 0 [Warning] [MY-010339] [Server] Using pre 5.5 semantics to load error messages from C:\Program Files\MySQL\MySQL Server 8.0\share\english\. If this is not intended, refer to the documentation for valid usage of --lc-messages-dir and --language parameters.
-2021-02-13T17:06:06.859833Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
-2021-02-13T17:06:07.917548Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
-2021-02-13T17:06:08.077093Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
-2021-02-13T17:06:08.108954Z 0 [System] [MY-010229] [Server] Starting XA crash recovery...
-2021-02-13T17:06:08.116864Z 0 [System] [MY-010232] [Server] XA crash recovery finished.
-2021-02-13T17:06:08.437245Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
-2021-02-13T17:06:08.438226Z 0 [System] [MY-013602] [Server] Channel mysql_main configured to support TLS. Encrypted connections are now supported for this channel.
-2021-02-13T17:06:08.566008Z 0 [System] [MY-010931] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld: ready for connections. Version: '8.0.23'  socket: ''  port: 3306  MySQL Community Server - GPL.
-2021-02-13T17:12:20.291310Z 0 [System] [MY-010116] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld (mysqld 8.0.23) starting as process 31016
-2021-02-13T17:12:20.297535Z 0 [Warning] [MY-010339] [Server] Using pre 5.5 semantics to load error messages from C:\Program Files\MySQL\MySQL Server 8.0\share\english\. If this is not intended, refer to the documentation for valid usage of --lc-messages-dir and --language parameters.
+21-02-13T17:12:20.297535Z 0 [Warning] [MY-010339] [Server] Using pre 5.5 semantics to load error messages from C:\Program Files\MySQL\MySQL Server 8.0\share\english\. If this is not intended, refer to the documentation for valid usage of --lc-messages-dir and --language parameters.
 2021-02-13T17:12:20.336112Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
 2021-02-13T17:12:21.508861Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
 2021-02-13T17:12:21.699977Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
