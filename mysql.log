@@ -1,20 +1,7 @@
 21-02-13T17:12:20.297535Z 0 [Warning] [MY-010339] [Server] Using pre 5.5 semantics to load error messages from C:\Program Files\MySQL\MySQL Server 8.0\share\english\. If this is not intended, refer to the documentation for valid usage of --lc-messages-dir and --language parameters.
 2021-02-13T17:12:20.336112Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
 2021-02-13T17:12:21.508861Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
-2021-02-13T17:12:21.699977Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
-2021-02-13T17:12:21.736427Z 0 [System] [MY-010229] [Server] Starting XA crash recovery...
-2021-02-13T17:12:21.741006Z 0 [System] [MY-010232] [Server] XA crash recovery finished.
-2021-02-13T17:12:22.013006Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
-2021-02-13T17:12:22.01Y-013577] [InnoDB] InnoDB initialization has ended.
-2021-02-13T17:18:49.139477Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
-2021-02-13T17:18:49.173148Z 0 [System] [MY-010229] [Server] Starting XA crash recovery...
-2021-02-13T17:18:49.178993Z 0 [System] [MY-010232] [Server] XA crash recovery finished.
-2021-02-13T17:18:49.431299Z 0 [Warning] [MY-011302] [Server] Plugin mysqlx reported: 'Failed at SSL configuration: "SSL context is not usable without certificate and private key"'
-2021-02-13T17:18:49.434036Z 0 [System] [MY-010931] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld: ready for connections. Version: '8.0.23'  socket: ''  port: 3306  MySQL Community Server - GPL.
-2021-02-13T17:23:04.693226Z 0 [System] [MY-010116] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld (mysqld 8.0.23) starting as process 31652
-2021-02-13T17:23:04.693818Z 0 [Warning] [MY-010339] [Server] Using pre 5.5 semantics to load error messages from C:\Program Files\MySQL\MySQL Server 8.0\share\english\. If this is not intended, refer to the documentation for valid usage of --lc-messages-dir and --language parameters.
-2021-02-13T17:23:04.724085Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
-2021-02-13T17:23:05.699567Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2021-02-13T17:12:1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
 2021-02-13T17:23:05.877460Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
 2021-02-13T17:23:05.902119Z 0 [System] [MY-010229] [Server] Starting XA crash recovery...
 2021-02-13T17:23:05.907091Z 0 [System] [MY-010232] [Server] XA crash recovery finished.
